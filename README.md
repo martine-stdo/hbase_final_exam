@@ -1,0 +1,3 @@
+# hbase_final_exam
+hbase的期末大作业
+只有字符界面，使用hbase存储学生信息的学生管理系统
